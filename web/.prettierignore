@@ -1,0 +1,4 @@
+dist/
+pkg/
+docs/
+package-lock.json
