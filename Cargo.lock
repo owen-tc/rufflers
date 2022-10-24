@@ -1811,9 +1811,9 @@ dependencies = [
 
 [[package]]
 name = "jpeg-decoder"
-version = "0.2.2"
+version = "0.3.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "105fb082d64e2100074587f59a74231f771750c664af903f1f9f76c9dedfc6f1"
+checksum = "bc0000e42512c92e31c2252315bda326620a4e034105e900c98ec492fa077b3e"
 
 [[package]]
 name = "js-sys"
@@ -2977,7 +2977,7 @@ dependencies = [
  "h263-rs-yuv",
  "indexmap",
  "instant",
- "jpeg-decoder 0.2.2",
+ "jpeg-decoder 0.3.0",
  "log",
  "lzma-rs",
  "minimp3",
@@ -3039,7 +3039,7 @@ version = "0.1.0"
 dependencies = [
  "base64",
  "fnv",
- "jpeg-decoder 0.2.2",
+ "jpeg-decoder 0.3.0",
  "js-sys",
  "log",
  "percent-encoding",
